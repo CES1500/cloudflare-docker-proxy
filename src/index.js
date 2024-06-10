@@ -4,7 +4,7 @@ addEventListener("fetch", (event) => {
 });
 
 const routes = {
-  "dockerjx.whrblog.eu.org/": "https://registry-1.docker.io",
+  "dockerjx.whrblog.eu.org": "https://registry-1.docker.io",
   
 };
 
